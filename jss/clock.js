@@ -8,4 +8,5 @@ function displayTime() {
     clock.innerText=`${hour}:${min}:${seconds}`
 }
 
+displayTime()
 setInterval(displayTime, 1000)
