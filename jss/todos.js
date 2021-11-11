@@ -23,3 +23,4 @@ function paintTodo(todo) {
 
 todoForm.addEventListener("submit", handleTodoSubmit)
 
+console.log('test')
